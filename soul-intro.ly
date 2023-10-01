@@ -71,7 +71,7 @@ bassguitar = \context Staff  \relative c' \new Voice{
       f8 r f,4 f8 f f f f f f f f f
       r f f f f f f f f f f bes,
       \textSpannerDown
-       \override TextSpanner #'edge-text = #'("poco rall " . "")
+       \override TextSpanner.edge-text = #'("poco rall " . "")
       ees4\startTextSpan d  c bes8-.\stopTextSpan 
      \break
        r_\markup { \italic a tempo } r4 r
