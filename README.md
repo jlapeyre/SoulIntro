@@ -9,5 +9,6 @@ This is typeset using the Lilypond music typesetting system.
 The source file is [soul-intro.ly](soul-intro.ly). The midi and pdf are produced by
 the command `lilypond soul-intro.ly`.
 
-I last edited the source file Wed Jul 11 01:26:35 2007.
+The source file was completed Wed Jul 11 01:26:35 2007.
+I have made small changes, updating the syntax, when creating this repo 16 years later.
 
